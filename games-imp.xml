@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gameslist>
+    <game Date="23.02.2023"  Name_of_opponent="TEST-1" Result="2-0" Side="Home"/>
+    <game Date="26.03.2023"  Name_of_opponent="TEST-2" Result="" Side="Guess"/>
+    <game Date="26.05.2023"  Name_of_opponent="TEST-3" Result="" Side="Home"/>
+</gameslist>
